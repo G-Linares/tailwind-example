@@ -1,4 +1,6 @@
-# Tailwind Examples
+#Email Subscription Template
+
+## How to Run
 
 ### `npx create-react-app my-project`
 ### `cd my-project`
