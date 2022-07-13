@@ -1,4 +1,4 @@
-#Email Subscription Template
+# Email Subscription Template
 
 ## How to Run
 
