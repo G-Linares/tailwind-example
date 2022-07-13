@@ -1,4 +1,4 @@
-# Tailwind Examples
+# Pricing Grid Template
 
 ### `npx create-react-app my-project`
 ### `cd my-project`
