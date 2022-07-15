@@ -10,7 +10,8 @@ This is the template starter branch for a Tailwind + React project, on the other
 - Pricing Grid
 
 ### Landing Pages
-- Clipboard
+- App landing page
+- Tech company landing 
 
 
 ### If you want to create a project from scrath do the following. 
