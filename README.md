@@ -1,6 +1,17 @@
 # Tailwind Examples
 
-This is the template starter branch for Tailwind + React, on the other branches you will find snippets of commonly used componenets
+This is the template starter branch for a Tailwind + React project, on the other branches you will find snippets and landing pages taken from frontendmentor.io
+
+### Mini Components
+- Login Modal
+- Newsletter Modal
+- Product Details Modal
+- Image Gallery
+- Pricing Grid
+
+### Landing Pages
+- Clipboard
+
 
 ### If you want to create a project from scrath do the following. 
 ```
