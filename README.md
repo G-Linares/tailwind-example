@@ -13,6 +13,7 @@ This is the template starter branch for a Tailwind + React project, on the other
 - App landing page
 - Tech company landing 
 - Web App Landing page
+- Nice Grid template
 
 
 ### If you want to create a project from scrath do the following. 
