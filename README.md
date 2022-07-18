@@ -12,6 +12,7 @@ This is the template starter branch for a Tailwind + React project, on the other
 ### Landing Pages
 - App landing page
 - Tech company landing 
+- Web App Landing page
 
 
 ### If you want to create a project from scrath do the following. 
