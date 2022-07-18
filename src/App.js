@@ -1,10 +1,16 @@
-import React from 'react'
+import React from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Home from './Views/Home';
 
 const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <BrowserRouter>
+      <Routes>
+        <Route index path="/" element={<Home />}/>
+        <Route exact path="/test" element={<h1>This is a test</h1>}/>
+      </Routes>
+    </BrowserRouter>
+    
   )
 }
 
