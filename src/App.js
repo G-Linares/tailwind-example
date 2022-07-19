@@ -1,11 +1,18 @@
-import React from 'react'
+import React from "react";
+
+import Box from "./Components/Box";
+import { DanMainText, DanSeconText } from "./Util/DummyData";
+
+import daniel from "./Assets/image-daniel.jpg";
 
 const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
-}
+    <div className="container mx-auto max-w-7xl p-2 md:p-10">
+      <div className="text-white">
+        <Box pic={daniel} mainText={DanMainText} secondaryText={DanSeconText}/>
+      </div>
+    </div>
+  );
+};
 
-export default App
+export default App;
