@@ -14,7 +14,7 @@ This is the template starter branch for a Tailwind + React project, on the other
 - Tech company landing 
 - Web App Landing page
 - Cool Grid Layout
-- Dark Mode Example Landing
+- Interactive Dark Mode Example Landing
 
 
 ### If you want to create a project from scrath do the following. 
